@@ -1,1 +1,1 @@
-This is the description of my repo from branch 2
+This is the description of my repo from branch
